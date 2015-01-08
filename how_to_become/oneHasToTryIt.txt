@@ -1,0 +1,2 @@
+it is easy to avoid a slow old dead zombie, but much more difficult to become one. 
+Though the easiest method is to give up on Python and C++ and go back to Basic. :D
